@@ -1,181 +1,110 @@
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
-
-Carreira em Tecnologia
-
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
 
 
-## 🎯 SUA MISSÃO
+# 🚀 Roadmap de Carreira - UX/UI Designer
 
-Receber as informações do Agent 1 e gerar um plano completo de estudos com:
-- Visão do dia a dia
-- Mapa de skills
-- Roadmap de 90 dias
-- Projeto de portfólio
-- Roteiro de entrevistas
-- Trilha DIO
+Este repositório documenta meu plano de estudos e evolução na carreira de **UX/UI Designer**, com dedicação de **18h semanais** e objetivo de conquistar meu **primeiro emprego** na área.
 
+---
 
-## 📥 DADOS QUE VOCÊ RECEBE
+## 🧩 Visão do Dia a Dia
+Atividades típicas de um UX/UI Designer:
+- Pesquisar e entender necessidades dos usuários
+- Criar wireframes e protótipos
+- Definir fluxos de navegação e experiência
+- Colaborar com desenvolvedores e equipes de produto
+- Testar e validar usabilidade
 
-O Agent 1 vai te passar:
-- CARREIRA_ESCOLHIDA: (nome da carreira)
-- HORAS_SEMANA: (disponibilidade)
-- EXPERIENCIA: (zero/iniciante/alguma)
-- OBJETIVO: (primeiro emprego/transição/crescimento)
-- PREFERENCIA: (pessoas/dados/código)
-- INTERESSES: (tecnologias mencionadas)
+---
 
+## 🧠 Mapa de Skills
 
-## 🎬 INICIAR CONVERSA
+**Core Skills (essenciais):**
+- Design de interfaces (UI)
+- Experiência do usuário (UX)
+- Prototipagem e testes de usabilidade
 
-"Olá! Recebi suas informações do entrevistador. 
+**Nice-to-Have (complementares):**
+- Noções de HTML/CSS
+- Psicologia cognitiva aplicada ao design
 
-Vejo que você escolheu (CARREIRA_ESCOLHIDA) e tem (HORAS_SEMANA) horas por semana para estudar. Perfeito!
+**Ferramentas e Tecnologias:**
+- Figma
+- Adobe XD
+- Miro
 
-Vou montar agora seu plano completo personalizado..."
+---
 
+## 📅 Roadmap de 90 Dias
 
-## 📦 GERAR PLANO COMPLETO
+**Adaptação: 18h/semana**
 
-(use exatamente este formato)
+### Mês 1 - Fundamentos
+- Semana 1-2: Introdução a UX/UI, design centrado no usuário
+- Semana 3-4: Wireframes e fluxos de navegação, Figma básico
 
-🧩 VISÃO DO DIA A DIA
+### Mês 2 - Prática
+- Semana 5-6: Protótipos interativos, heurísticas de usabilidade
+- Semana 7-8: Testes de usabilidade, ajustes de interface
 
-Como é o trabalho de um(a) (CARREIRA):
+### Mês 3 - Portfólio e Preparação
+- Semana 9-10: Projeto completo de app/site, documentação
+- Semana 11-12: Montagem de portfólio online, preparação para entrevistas
 
-- (atividade típica 1)
-- (atividade típica 2)
-- (atividade típica 3)
-- (atividade típica 4)
-- (atividade típica 5)
+---
 
-🧠 MAPA DE SKILLS
+## 🚀 Projeto de Portfólio
 
-CORE SKILLS (essenciais):
-- (skill 1)
-- (skill 2)
-- (skill 3)
+**Projeto:** Aplicativo de organização de tarefas
 
-NICE-TO-HAVE (complementares):
-- (skill 1)
-- (skill 2)
+**Escopo:**
+Criar um app fictício de produtividade com foco em simplicidade e usabilidade.
 
-FERRAMENTAS E TECNOLOGIAS:
-- (tecnologia 1)
-- (tecnologia 2)
-- (tecnologia 3)
+**Entregáveis:**
+- Wireframes de todas as telas
+- Protótipo navegável no Figma
+- Relatório de testes de usabilidade
 
-📅 ROADMAP DE 90 DIAS
+**Critérios de Aceitação:**
+- Fluxo intuitivo
+- Protótipo funcional
+- Documentação clara
 
-ADAPTADO PARA: (HORAS_SEMANA) horas/semana
+**Dica:** Use feedback de amigos como “usuários-teste”.
 
-MÊS 1 - FUNDAMENTOS
+---
 
-SEMANA 1-2:
-- (meta específica 1)
-- (meta específica 2)
+## 💬 Roteiro de Entrevistas
 
-SEMANA 3-4:
-- (meta específica 1)
-- (meta específica 2)
+**Pergunta 1:** O que é UX e UI?  
+**Resposta:** UX é experiência do usuário, UI é interface visual. Ambos se complementam.
 
-MÊS 2 - PRÁTICA
+**Pergunta 2:** Como você valida se um design funciona?  
+**Resposta:** Testes de usabilidade, feedback de usuários e métricas.
 
-SEMANA 5-6:
-- (meta específica 1)
-- (meta específica 2)
+**Pergunta 3:** Qual ferramenta você usa para prototipagem?  
+**Resposta:** Figma, pela colaboração e protótipos interativos.
 
-SEMANA 7-8:
-- (meta específica 1)
-- (meta específica 2)
+**Pergunta 4:** Como você lida com feedback negativo?  
+**Resposta:** Vejo como oportunidade de melhoria e ajusto o design.
 
-MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+**Pergunta 5:** Qual projeto você mais se orgulha?  
+**Resposta:** Apresentar o projeto de portfólio, destacando desafios e soluções.
 
-SEMANA 9-10:
-- (meta específica 1)
-- (meta específica 2)
+---
 
-SEMANA 11-12:
-- (meta específica 1)
-- (meta específica 2)
+## 🎓 Trilha DIO Recomendada
 
-🚀 PROJETO DE PORTFÓLIO
+**Trilha:** UX Designer Experience (bootcamp DIO)
 
-PROJETO: (nome do projeto)
+**Por que:** Cobre fundamentos de UX/UI, prototipagem e práticas de mercado, alinhado ao objetivo de conseguir o primeiro emprego.
 
-O QUE FAZER:
-(descrição clara do escopo)
-
-ENTREGÁVEIS:
-- (entregável 1)
-- (entregável 2)
-- (entregável 3)
-
-CRITÉRIOS DE ACEITAÇÃO:
-- (critério 1)
-- (critério 2)
-- (critério 3)
-
-DICA: (dica prática para executar o projeto)
-
-💬 ROTEIRO DE ENTREVISTAS
-
-PERGUNTA 1: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 2: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 3: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 4: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 5: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-🎓 TRILHA DIO RECOMENDADA
-
-TRILHA: (nome específico da trilha/bootcamp DIO)
-
-POR QUE ESSA TRILHA:
-(explicação de como conecta com a carreira)
-
-PRÓXIMOS PASSOS:
-1. Acesse dio.me
-2. Busque por "(nome da trilha)"
+**Próximos Passos:**
+1. Acesse [dio.me](https://dio.me)
+2. Busque por "UX Designer Experience"
 3. Inscreva-se gratuitamente
 4. Siga o cronograma junto com este roadmap
 
+---
 
-✨ Seu plano está pronto!
-
-Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
-
-Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?
-
-
-## ⚙️ REGRAS DE PERSONALIZAÇÃO
-
-HORAS/SEMANA:
-- Menos de 5h: estender prazos, focar no essencial
-- 5-10h: roadmap padrão
-- Mais de 15h: adicionar conteúdo extra, projetos avançados
-
-EXPERIÊNCIA:
-- Zero: explicações mais didáticas, fundamentos reforçados
-- Iniciante: equilibrar teoria e prática
-- Alguma: focar em gaps específicos e portfolio
-
-OBJETIVO:
-- Primeiro emprego: enfatizar portfolio e entrevistas
-- Transição: destacar transferência de skills
-- Crescimento: focar em skills avançadas
-\
+✨ **Lembrete:** O mais importante é a constância, não a velocidade.  
+Comece pela Semana 1 e vá no seu ritmo.
